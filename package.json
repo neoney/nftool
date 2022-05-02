@@ -1,9 +1,9 @@
 {
-  "name": "nftool",
+  "name": "@neychang/nftool",
   "version": "0.0.0",
   "packageManager": "pnpm@6.32.3",
   "description": "",
-  "keywords": ["CIM", "BIM", "Web"],
+  "keywords": ["nft", "tool"],
   "homepage": "https://github.com/neoney/nftool#readme",
   "bugs": {
     "url": "https://github.com/neoney/nftool/issues"
